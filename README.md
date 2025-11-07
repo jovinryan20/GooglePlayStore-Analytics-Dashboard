@@ -124,18 +124,17 @@ Plots a bubble chart showing:
 
 ---
 
-## 🖼️ **Sample Output Snapshots**
+## 📈 **Sample Plot Previews**
 
-Here’s an overview of generated visuals available in the `plots/` folder:
+> 📂 *All plots are located inside the `/plots` directory.*
 
-| Task | Visualization Type | File Name |
-|------|--------------------|-----------|
-| 1 | Bar Chart | `1.png` |
-| 2 | Rating Bar | `2.png` |
-| 3 | Sentiment Line | `3.png` |
-| 4 | Category Language Map | `4.png` |
-| 5 | Bubble Chart | `5.png` |
-| 6 | Stacked Area Chart | `6.png` |
+| Visualization | Preview |
+|---------------|----------|
+| **Bar Chart (Category Distribution)** | ![Bar Chart](plots/1.png) |
+| **Sentiment Analysis** | ![Sentiment Analysis](plots/3.png) |
+| **Category Translation Map** | ![Category Translation Map](plots/4.png) |
+| **Bubble Chart (Filtered Analysis)** | ![Bubble Chart](plots/5.png) |
+| **Stacked Area Chart** | ![Stacked Area Chart](plots/6.png) |
 
 
 **👨‍💻 Author**
