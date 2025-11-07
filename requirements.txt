@@ -1,0 +1,28 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.25.0
+
+# Visualization
+matplotlib>=3.8.0
+plotly>=5.24.0
+
+# Natural language & translation
+textblob>=0.17.1
+googletrans==4.0.0-rc1
+
+# Date and time utilities
+python-dateutil>=2.9.0
+
+# Jupyter notebook (for data_cleaning.ipynb)
+notebook>=7.1.0
+ipykernel>=6.29.0
+
+# Dashboard & environment tools
+dash>=2.17.0
+flask>=3.0.0
+
+# Optional: for reproducible warnings and clean outputs
+seaborn>=0.13.0
+
+# File system and encoding handling
+openpyxl>=3.1.2
