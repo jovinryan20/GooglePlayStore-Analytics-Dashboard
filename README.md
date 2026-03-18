@@ -1,6 +1,6 @@
-# 📊 Google Playstore App Analytics Dashboard Internship Project
+# 📊 Google Playstore App Analytics Dashboard Project
 
-This project is a **Python-based data analytics and visualization dashboard** built during my internship.  
+This project is a **Python-based data analytics and visualization dashboard**.
 It focuses on **analyzing Google Play Store app data** through six data-driven tasks using **Pandas**, **Matplotlib**, and **Plotly** for interactive visualizations.
 
 ---
@@ -139,4 +139,3 @@ Plots a bubble chart showing:
 
 **👨‍💻 Author**
 *Jovin Ryan Samuel*
-💼 Internship Project – App Analytics Dashboard
