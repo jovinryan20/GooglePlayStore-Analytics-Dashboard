@@ -18,8 +18,9 @@ notebook>=7.1.0
 ipykernel>=6.29.0
 
 # Dashboard & environment tools
-dash>=2.17.0
-flask>=3.0.0
+streamlit
+plotly
+pytz
 
 # Optional: for reproducible warnings and clean outputs
 seaborn>=0.13.0
