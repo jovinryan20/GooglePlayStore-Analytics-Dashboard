@@ -13,6 +13,10 @@ It focuses on **analyzing Google Play Store app data** through six data-driven t
 - Automated chart generation for data storytelling.
 - Focused on practical data visualization and dashboard development skills.
 
+## 🚀 Live Streamlit Dashboard
+The interactive version is deployed here:  
+👉 https://appplaystore-analytics-dashboard.streamlit.app/
+
 ---
 
 ## 🗂️ Folder Structure
