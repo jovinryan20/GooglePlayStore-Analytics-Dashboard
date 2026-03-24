@@ -20,6 +20,7 @@ ipykernel>=6.29.0
 # Dashboard & environment tools
 streamlit
 plotly
+pandas
 pytz
 
 # Optional: for reproducible warnings and clean outputs
